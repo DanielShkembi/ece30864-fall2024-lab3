@@ -14,3 +14,20 @@ The scrum master handles tasks likes jira tooling, facilitating sprints, and sta
 - Plan agile developments with the Scrum development team.
 - Monitor the sprint's progress, identify issues, address issues and ways to go about starting to fix them.
 - Communicate with the product owner and team to ensure backlog and task are all correct in terms of status.
+
+(c)
+Sprint Planning
+- Determine what to complete in the coming sprint
+- Move stories in sprint scope from backlog to current sprint
+- Determine story points and assign stories to team
+- Start sprint
+
+Daily Scrum/Standup
+- Short meeting that happens every day of the sprint
+- Usually, 10 mins long
+- Team members discuss work completed, work plan for the day and any blockers
+
+Sprint Retrospective
+- Occurs at the end of the sprint
+- Discuss work complete and move incomplete work to backlog
+- Close sprint
