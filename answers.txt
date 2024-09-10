@@ -3,3 +3,14 @@ Non-agile development's pros are that it has clear expectations [1] and clear re
 The cons of non-agile development are that they are not flexible [1] and require lots of in between steps like approval, which makes non-agile development slow [2].
 Agile development's pros are that it is very flexible [1] (since it is fast moving), and has consistent delivery of products [2] every 2-4 weeks. 
 The cons of agile development are that large projects would fail due to too much flexibility and not enough structure [1] and the documentation is done during the project which results in time management issues [2].
+
+(b)
+The product owner sets direction for the team, handles release management and stakeholder management. 
+- Create and maintain the backlog for the project.
+- Work with the product manager to create a roadmap for the team.
+- Communicate with the scrum master to ensure the product is coming along on time and making sure deliverables work.
+
+The scrum master handles tasks likes jira tooling, facilitating sprints, and standups. 
+- Plan agile developments with the Scrum development team.
+- Monitor the sprint's progress, identify issues, address issues and ways to go about starting to fix them.
+- Communicate with the product owner and team to ensure backlog and task are all correct in terms of status.
