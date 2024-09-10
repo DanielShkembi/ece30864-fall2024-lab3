@@ -31,3 +31,9 @@ Sprint Retrospective
 - Occurs at the end of the sprint
 - Discuss work complete and move incomplete work to backlog
 - Close sprint
+
+(d)
+Epic: A big user story that needs to be broken down into different parts; epics group together bugs, stories, and tasks to show the progress of a larger initiative.
+Story: A story is the smallest unit of work that needs to be done.
+Bug: A bug is a problem which affects the functions of a product in any way.
+Task: A task represents work that needs to be done.
